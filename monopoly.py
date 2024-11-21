@@ -1,5 +1,3 @@
-import json
-import os
 from dotenv import load_dotenv
 
 from monosim.player import Player
